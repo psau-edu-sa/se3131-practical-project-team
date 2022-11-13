@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/107370302/201528001-d7f55181-c964-47ab-ab81-1bdcc95f6aa1.jpg" width=500 height=300>
+
 # Traffic light
 The system of opposite signals located near the municipality of Al-Kharj Governorate,
 as shown in the following picture, and the following system is required to be implemented:-
